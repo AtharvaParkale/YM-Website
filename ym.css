@@ -151,6 +151,7 @@ html{
     
     display: flex;
     justify-content: center;
+    
 }
 .member-2{
     
@@ -158,6 +159,12 @@ html{
     justify-content: center;
 }
 .member-3{
+   
+    display: flex;
+    justify-content: center;
+
+}
+.member-4{
    
     display: flex;
     justify-content: center;
@@ -256,7 +263,7 @@ footer img{
 }
 .about p{
     margin: 32px 0px 55px 3px;
-    font-size: 40px;
+    font-size: 31px;
     text-align: center;
     font-family: 'Reggae One', cursive;
 }
